@@ -2085,8 +2085,8 @@ h6 {
   height: auto;
   clear: both;
   float: left;
-  background-color: #d1701f;
-  padding: 80px 0px;
+  background-color: #000000 !important;
+  padding: 10px 0px;
 }
 .ryker_tm_copyright .copyright_inner {
   width: 100%;
